@@ -1,3 +1,7 @@
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
+
 # aquecimento-trybesmith
 
 Repositório criado para realizar um pequeno aquecimento para o projeto trybesmith. Vamos criar uma API simples usando typescript e tirar todo o medo dessa linguagem que o Gus costuma chamar de ~Maravilhosa.
